@@ -1,0 +1,6 @@
+{
+	"ignore": ["*.json","logging.txt","debug.log"],
+	"events": {
+		"start": "node -e console.clear()"
+	}
+}
